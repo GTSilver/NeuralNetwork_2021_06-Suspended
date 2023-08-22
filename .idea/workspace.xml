@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32c0115a-4451-48a2-a213-bf498a8320b6" name="Changes" comment="Искуственные данные">
+      <change afterPath="$PROJECT_DIR$/model_C1R4_Mod_V2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_Import.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_Import.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_Import2.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_Import2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib_Import.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib_Import.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_C1R17.py" beforeDir="false" afterPath="$PROJECT_DIR$/model_C1R17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_C1R8.py" beforeDir="false" afterPath="$PROJECT_DIR$/model_C1R8.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29FVYYB3XMm5kZOFlzMkc2jsuIQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/NeuroWeb&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\NeuroWeb" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="UseModel" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="NeuroWeb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\GTSilver\AppData\Local\Programs\Python\Python310\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UseModel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lib_Import" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NeuroWeb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib_Import.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="NeuroWeb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\GTSilver\AppData\Local\Programs\Python\Python310\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.UseModel" />
+      <item itemvalue="Python.lib_Import" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.lib_Import" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32c0115a-4451-48a2-a213-bf498a8320b6" name="Changes" comment="" />
+      <created>1652708869529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652708869529</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Проверка импорта">
+      <created>1652710315195</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652710315195</updated>
+    </task>
+    <task id="LOCAL-00002" summary="-">
+      <created>1652712477565</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652712477565</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Рефакторинг">
+      <created>1652712884110</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652712884110</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Импорт данных">
+      <created>1652713386419</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652713386419</updated>
+    </task>
+    <task id="LOCAL-00005" summary="-">
+      <created>1652716432539</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1652716432539</updated>
+    </task>
+    <task id="LOCAL-00006" summary="-">
+      <created>1652717211386</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1652717211386</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Создание модели">
+      <created>1652883771495</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1652883771495</updated>
+    </task>
+    <task id="LOCAL-00008" summary="-">
+      <created>1652889143653</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1652889143653</updated>
+    </task>
+    <task id="LOCAL-00009" summary="-">
+      <created>1652972138369</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1652972138369</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Простая модель">
+      <created>1652987288476</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1652987288476</updated>
+    </task>
+    <task id="LOCAL-00011" summary="-">
+      <created>1653253165283</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1653253165283</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Сохранение модели и результатов">
+      <created>1653660307782</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1653660307782</updated>
+    </task>
+    <task id="LOCAL-00013" summary="-">
+      <created>1653926797673</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1653926797673</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Adam вместо SGD">
+      <created>1653934273411</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1653934273411</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Работающая регрессионная модель">
+      <created>1654453039804</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1654453039804</updated>
+    </task>
+    <task id="LOCAL-00016" summary="До рефакторинга">
+      <created>1654601342010</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1654601342010</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Поиск точности">
+      <created>1654723336242</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1654723336243</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Новая система">
+      <created>1655037372054</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1655037372054</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Повышение точности">
+      <created>1655328512575</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1655328512575</updated>
+    </task>
+    <task id="LOCAL-00020" summary="2D свёртка">
+      <created>1655719007292</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1655719007292</updated>
+    </task>
+    <task id="LOCAL-00021" summary="5.5 4.2 4.1 4.6&#10;5.6 4.1 4.2 4.6&#10;0.0067 0.00442 0.00405 0.0051&#10;0.00692 0.00451 0.00402 0.0052">
+      <created>1655898897561</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1655898897561</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Использование обученной модели">
+      <created>1656009379522</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1656009379522</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Искуственные данные">
+      <created>1656619474389</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1656619474389</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Искуственные данные">
+      <created>1656621176890</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1656621176890</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Проверка импорта" />
+    <MESSAGE value="Рефакторинг" />
+    <MESSAGE value="Импорт данных" />
+    <MESSAGE value="Создание модели" />
+    <MESSAGE value="Простая модель" />
+    <MESSAGE value="Сохранение модели и результатов" />
+    <MESSAGE value="-" />
+    <MESSAGE value="Adam вместо SGD" />
+    <MESSAGE value="Работающая регрессионная модель" />
+    <MESSAGE value="До рефакторинга" />
+    <MESSAGE value="Поиск точности" />
+    <MESSAGE value="Новая система" />
+    <MESSAGE value="Повышение точности" />
+    <MESSAGE value="2D свёртка" />
+    <MESSAGE value="5.5 4.2 4.1 4.6&#10;5.6 4.1 4.2 4.6&#10;0.0067 0.00442 0.00405 0.0051&#10;0.00692 0.00451 0.00402 0.0052" />
+    <MESSAGE value="Использование обученной модели" />
+    <MESSAGE value="Искуственные данные" />
+    <option name="LAST_COMMIT_MESSAGE" value="Искуственные данные" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_C1R16.py</url>
+          <line>75</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data_Import2.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_C1R4_Mod_V2.py</url>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
